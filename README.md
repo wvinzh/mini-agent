@@ -601,3 +601,7 @@ mini-agent/
 ├── tests/                   # unittest，全部离线
 └── docs/ARCHITECTURE.md
 ```
+
+## 许可证
+
+本项目基于 [MIT License](LICENSE) 开源。
